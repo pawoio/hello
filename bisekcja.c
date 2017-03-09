@@ -2,7 +2,7 @@
 #include <math.h>
 #include <float.h>
 #include <stdlib.h>
-
+//Pawel mlyniec
 int main()
 {
 double  a,b,c,d,e,f,g,x,E,A,B,F; //a,b,c,d,e,f,g parametry funkcji F(x) E-epsilon A,B krańce przedziału
